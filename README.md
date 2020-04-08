@@ -69,7 +69,7 @@ Admin will handle all reports.
 |[]|GET|api/admin/:username/:password|Check info is matched for admin|
 |[]|POST|api/admin/:username/reports|Handle report by comments|
 |[]|UPDATE|api/admin/:username/updateReport/:reportID|Update report details|
-|[]|DELETE|api/admin/:reportID|Delete user|
+|[]|DELETE|api/admin/:reportID|Delete untrue reports|
 |[]|DELETE|api/admin/deleteUser/:username|Delete user|
 
 # Git
